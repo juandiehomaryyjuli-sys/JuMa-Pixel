@@ -7,7 +7,7 @@ Somos el equipo de desarrollo para el curso de Programación para Videojuegos.
 * **Rol:** Líder de Proyecto y Diseñadora.
 * **Ubicación:** Bogotá, Colombia
 
-### Mi fkoto personal 
+### Mi foto personal 
 
 ![Mi foto personal](<Laura/foto de perfil Nueva.png>)
 
