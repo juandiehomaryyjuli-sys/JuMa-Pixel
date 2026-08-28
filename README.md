@@ -7,6 +7,10 @@ Somos el equipo de desarrollo para el curso de Programación para Videojuegos.
 * **Rol:** Líder de Proyecto y Diseñadora.
 * **Ubicación:** Bogotá, Colombia
 
+### Mi fkoto personal 
+
+![Mi foto personal](<Laura/foto de perfil Nueva.png>)
+
 ### Perfil
 Soy Laura Juliana Rodriguez Suarez, estudiante de septimo semestre de Ingeniería Multimedia en la UNAD. Me apasiona el diseño de videojuegos, la creación de experiencias interactivas y el desarrollo de proyectos con un impacto social.
 
